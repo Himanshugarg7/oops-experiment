@@ -38,7 +38,7 @@ int main() {
     cout << "Student 1 (Default Constructor):" << endl;
     student1.display();
 
-    Student student2("Bhavik Mittal", 103, 80.2);
+    Student student2("himanshu", 103, 80.2);
     cout << "Student 2 (Parameterized Constructor):" << endl;
     student2.display();
 
